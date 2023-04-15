@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da4c0e89-9291-4ac4-b059-b2089183fcae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prog_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello_world.java" beforeDir="false" />
-    </list>
+    <list default="true" id="da4c0e89-9291-4ac4-b059-b2089183fcae" name="Changes" comment="spring boot first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,9 +34,19 @@
       <option name="presentableId" value="Default" />
       <updated>1681566341401</updated>
     </task>
+    <task id="LOCAL-00001" summary="spring boot first commit">
+      <created>1681567213473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681567213473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="spring boot first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring boot first commit" />
   </component>
 </project>
