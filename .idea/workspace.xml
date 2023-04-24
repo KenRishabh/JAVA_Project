@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da4c0e89-9291-4ac4-b059-b2089183fcae" name="Changes" comment="Typecasting&#10;&#10;byte to int">
+    <list default="true" id="da4c0e89-9291-4ac4-b059-b2089183fcae" name="Changes" comment="Typecasting&#10;&#10;char t int">
+      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypeCasting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,14 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Java/JAVA/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Loop">
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop" />
+      <module name="JAVA_PROJECT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TypeCasting" />
       <module name="JAVA_PROJECT" />
@@ -62,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Loop" />
         <item itemvalue="Application.TypeCasting" />
       </list>
     </recent_temporary>
@@ -124,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682355007065</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Typecasting&#10;&#10;char t int">
+      <created>1682355485821</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682355485821</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +160,7 @@
     <MESSAGE value="deleting comment" />
     <MESSAGE value="Typecasting" />
     <MESSAGE value="Typecasting&#10;&#10;byte to int" />
-    <option name="LAST_COMMIT_MESSAGE" value="Typecasting&#10;&#10;byte to int" />
+    <MESSAGE value="Typecasting&#10;&#10;char t int" />
+    <option name="LAST_COMMIT_MESSAGE" value="Typecasting&#10;&#10;char t int" />
   </component>
 </project>
