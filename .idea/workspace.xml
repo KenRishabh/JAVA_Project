@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da4c0e89-9291-4ac4-b059-b2089183fcae" name="Changes" comment="Typecasting&#10;&#10;char t int">
-      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="da4c0e89-9291-4ac4-b059-b2089183fcae" name="Changes" comment="If &amp; while looping">
+      <change beforePath="$PROJECT_DIR$/src/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682355485821</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="If &amp; while looping">
+      <created>1682356091165</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682356091165</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +167,7 @@
     <MESSAGE value="Typecasting" />
     <MESSAGE value="Typecasting&#10;&#10;byte to int" />
     <MESSAGE value="Typecasting&#10;&#10;char t int" />
-    <option name="LAST_COMMIT_MESSAGE" value="Typecasting&#10;&#10;char t int" />
+    <MESSAGE value="If &amp; while looping" />
+    <option name="LAST_COMMIT_MESSAGE" value="If &amp; while looping" />
   </component>
 </project>
