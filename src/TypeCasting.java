@@ -16,11 +16,12 @@ public class TypeCasting {
 //        byte b = (byte) (a);
 //        System.out.println(b);
 //
-        byte a = 40;
-        byte b = 50;
-        byte c = 100;
-          int d = (a*b)/c;
-        System.out.println(d);
+//        byte a = 40;
+//        byte b = 50;
+//        byte c = 100;
+//          int d = (a*b)/c;
+//        System.out.println(d);
+        int number = 'a';
+        System.out.print(number);
+}//It won't convert high value to lower value int-float(Possible) but float to int(Not Possible)
 }
-}
-// It won't convert high value to lower value int-float(Possible) but float to int(Not Possible)
