@@ -15,6 +15,11 @@ public class Loop {
         for(int count= 1; count !=5; count++){
             System.out.println("ILoveIndia");
         }
-
+    // do while loop
+        int n =1;
+        do{
+            System.out.println(n);
+            n++;
+        }while(n <= 5);
     }
 }
