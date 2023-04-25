@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da4c0e89-9291-4ac4-b059-b2089183fcae" name="Changes" comment="If &amp; while looping">
-      <change beforePath="$PROJECT_DIR$/src/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condition_Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,14 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Java/JAVA/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Loop">
+  <component name="RunManager" selected="Application.Condition_Loop">
+    <configuration name="Condition_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Condition_Loop" />
+      <module name="JAVA_PROJECT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop" />
       <module name="JAVA_PROJECT" />
@@ -68,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Condition_Loop" />
         <item itemvalue="Application.Loop" />
         <item itemvalue="Application.TypeCasting" />
       </list>
