@@ -1,4 +1,4 @@
-public class Condition_Loop {
+public class Condition {
     public static void main(String[] args) {
         int salary = 50000;
        /* if (salary > 10000) {
